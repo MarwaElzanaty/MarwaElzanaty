@@ -8,16 +8,6 @@
 
 <p data-importer="text" align="left">Full-Stack .NET & Microsoft Dynamics 365 CRM Developer with hands-on experience in developing enterprise<br>web applications using ASP.NET Core, Angular, SQL Server, and RESTful APIs. Strong background in Dynamics<br>365 CRM, business intelligence, and software engineering principles, with experience integrating Power BI and<br>AI-powered solutions. Passionate about building scalable, high-quality applications and continuously expanding<br>technical expertise.</p>
 
-###
-
-<div data-importer="socials" align="left">
-  <a href="marwaelzanaty344@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
-  </a href="https://www.linkedin.com/in/marwa-gamal-elzanaty" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
-</div>
-
-###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
