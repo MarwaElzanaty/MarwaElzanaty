@@ -2,7 +2,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Full Stack developer (.Net & Angular) _ ITI Graguate</h2>
+<h2 data-importer="text" align="left">Full Stack developer (.Net & Angular) _ ITI Graduate</h2>
 
 ###
 
