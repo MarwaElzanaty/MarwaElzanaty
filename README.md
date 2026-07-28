@@ -46,12 +46,3 @@
 <p data-importer="text" align="left">9-Month Professional Diploma, Information Technology Institute (ITI)<br>Track: Professional Web Development and BI Infused CRM.  (Graduated)<br><br>Bachelor's Degree in Computers and Information, Faculty of Computers and<br>Information Graduated with a GPA of 3.3/4.0, achieving 'Very Good' distinction.</p>
 
 ###
-
-<h3 data-importer="text" align="left">Location</h3>
-
-###
-
-<p data-importer="text" align="left">Cairo, Egypt</p>
-
-###
-
